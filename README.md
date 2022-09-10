@@ -1,0 +1,3 @@
+Setting Up: Install Node.js Run install.bat file to install all necessary files Run FpriteGrabber.exe and wait for nodejs-win.exe to be built.
+
+Features: Autostart (Startup) Discord Token Discord Info - Username, Phone number, Email, Billing, Nitro Status & Backup Codes Discord Friends with rare badges Grabs crypto wallets - 💸 Zcash 🚀 Armory 📀 Bytecoin 💵 Jaxx 💎 Exodus 📉 Ethereum 🔨 Electrum 🕹️ AtomicWallet 💹 Guarda ⚡ Coinomi Browser (Chrome, Opera, Firefox, OperaGX, Edge, Brave, Yandex) - Passwords, Cookies, Credit Card , Autofill & History (Searches for specific keywords such as PayPal, Coinbase etc. in them)
